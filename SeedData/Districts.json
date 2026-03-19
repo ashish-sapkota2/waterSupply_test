@@ -1,0 +1,393 @@
+[
+  {
+    "Name": "Taplejung",
+    "NameNp": "ताप्लेजुङ",
+    "province": "Koshi"
+  },
+  {
+    "Name": "Panchthar",
+    "NameNp": "पाँचथर",
+    "province": "Koshi"
+  },
+  {
+    "Name": "Ilam",
+    "NameNp": "इलाम",
+    "province": "Koshi"
+  },
+  {
+    "Name": "Jhapa",
+    "NameNp": "झापा",
+    "province": "Koshi"
+  },
+  {
+    "Name": "Morang",
+    "NameNp": "मोरङ",
+    "province": "Koshi"
+  },
+  {
+    "Name": "Sunsari",
+    "NameNp": "सुनसरी",
+    "province": "Koshi"
+  },
+  {
+    "Name": "Dhankuta",
+    "NameNp": "धनकुटा",
+    "province": "Koshi"
+  },
+  {
+    "Name": "Terhathum",
+    "NameNp": "तेह्रथुम",
+    "province": "Koshi"
+  },
+  {
+    "Name": "Bhojpur",
+    "NameNp": "भोजपुर",
+    "province": "Koshi"
+  },
+  {
+    "Name": "Sankhuwasabha",
+    "NameNp": "संखुवासभा",
+    "province": "Koshi"
+  },
+  {
+    "Name": "Khotang",
+    "NameNp": "खोटाङ",
+    "province": "Koshi"
+  },
+  {
+    "Name": "Okhaldhunga",
+    "NameNp": "ओखलढुंगा",
+    "province": "Koshi"
+  },
+  {
+    "Name": "Solukhumbu",
+    "NameNp": "सोलुखुम्बु",
+    "province": "Koshi"
+  },
+  {
+    "Name": "Udayapur",
+    "NameNp": "उदयपुर",
+    "province": "Koshi"
+  },
+
+  {
+    "Name": "Saptari",
+    "NameNp": "सप्तरी",
+    "province": "Madhesh"
+  },
+  {
+    "Name": "Siraha",
+    "NameNp": "सिराहा",
+    "province": "Madhesh"
+  },
+  {
+    "Name": "Dhanusha",
+    "NameNp": "धनुषा",
+    "province": "Madhesh"
+  },
+  {
+    "Name": "Mahottari",
+    "NameNp": "महोत्तरी",
+    "province": "Madhesh"
+  },
+  {
+    "Name": "Sarlahi",
+    "NameNp": "सर्लाही",
+    "province": "Madhesh"
+  },
+  {
+    "Name": "Rautahat",
+    "NameNp": "रौतहट",
+    "province": "Madhesh"
+  },
+  {
+    "Name": "Bara",
+    "NameNp": "बारा",
+    "province": "Madhesh"
+  },
+  {
+    "Name": "Parsa",
+    "NameNp": "पर्सा",
+    "province": "Madhesh"
+  },
+
+  {
+    "Name": "Sindhuli",
+    "NameNp": "सिन्धुली",
+    "province": "Bagmati"
+  },
+  {
+    "Name": "Ramechhap",
+    "NameNp": "रामेछाप",
+    "province": "Bagmati"
+  },
+  {
+    "Name": "Dolakha",
+    "NameNp": "दोलखा",
+    "province": "Bagmati"
+  },
+  {
+    "Name": "Bhaktapur",
+    "NameNp": "भक्तपुर",
+    "province": "Bagmati"
+  },
+  {
+    "Name": "Dhading",
+    "NameNp": "धादिङ",
+    "province": "Bagmati"
+  },
+  {
+    "Name": "Kathmandu",
+    "NameNp": "काठमाडौँ",
+    "province": "Bagmati"
+  },
+  {
+    "Name": "Kavrepalanchok",
+    "NameNp": "काभ्रेपलाञ्चोक",
+    "province": "Bagmati"
+  },
+  {
+    "Name": "Lalitpur",
+    "NameNp": "ललितपुर",
+    "province": "Bagmati"
+  },
+  {
+    "Name": "Nuwakot",
+    "NameNp": "नुवाकोट",
+    "province": "Bagmati"
+  },
+  {
+    "Name": "Rasuwa",
+    "NameNp": "रसुवा",
+    "province": "Bagmati"
+  },
+  {
+    "Name": "Sindhupalchok",
+    "NameNp": "सिन्धुपाल्चोक",
+    "province": "Bagmati"
+  },
+  {
+    "Name": "Chitwan",
+    "NameNp": "चितवन",
+    "province": "Bagmati"
+  },
+  {
+    "Name": "Makwanpur",
+    "NameNp": "मकवानपुर",
+    "province": "Bagmati"
+  },
+
+  {
+    "Name": "Baglung",
+    "NameNp": "बागलुङ",
+    "province": "Gandaki"
+  },
+  {
+    "Name": "Gorkha",
+    "NameNp": "गोरखा",
+    "province": "Gandaki"
+  },
+  {
+    "Name": "Kaski",
+    "NameNp": "कास्की",
+    "province": "Gandaki"
+  },
+  {
+    "Name": "Lamjung",
+    "NameNp": "लमजुङ",
+    "province": "Gandaki"
+  },
+  {
+    "Name": "Manang",
+    "NameNp": "मनाङ",
+    "province": "Gandaki"
+  },
+  {
+    "Name": "Mustang",
+    "NameNp": "मुस्ताङ",
+    "province": "Gandaki"
+  },
+  {
+    "Name": "Myagdi",
+    "NameNp": "म्याग्दी",
+    "province": "Gandaki"
+  },
+  {
+    "Name": "Nawalpur",
+    "NameNp": "नवलपुर",
+    "province": "Gandaki"
+  },
+  {
+    "Name": "Parbat",
+    "NameNp": "पर्वत",
+    "province": "Gandaki"
+  },
+  {
+    "Name": "Syangja",
+    "NameNp": "स्याङ्जा",
+    "province": "Gandaki"
+  },
+  {
+    "Name": "Tanahun",
+    "NameNp": "तनहुँ",
+    "province": "Gandaki"
+  },
+
+  {
+    "Name": "Arghakhanchi",
+    "NameNp": "अर्घाखाँची",
+    "province": "Lumbini"
+  },
+  {
+    "Name": "Banke",
+    "NameNp": "बाँके",
+    "province": "Lumbini"
+  },
+  {
+    "Name": "Bardiya",
+    "NameNp": "बर्दिया",
+    "province": "Lumbini"
+  },
+  {
+    "Name": "Dang",
+    "NameNp": "दाङ",
+    "province": "Lumbini"
+  },
+  {
+    "Name": "Eastern Rukum",
+    "NameNp": "पूर्वी रुकुम",
+    "province": "Lumbini"
+  },
+  {
+    "Name": "Gulmi",
+    "NameNp": "गुल्मी",
+    "province": "Lumbini"
+  },
+  {
+    "Name": "Kapilvastu",
+    "NameNp": "कपिलवस्तु",
+    "province": "Lumbini"
+  },
+  {
+    "Name": "Parasi",
+    "NameNp": "परासी",
+    "province": "Lumbini"
+  },
+  {
+    "Name": "Palpa",
+    "NameNp": "पाल्पा",
+    "province": "Lumbini"
+  },
+  {
+    "Name": "Pyuthan",
+    "NameNp": "प्युठान",
+    "province": "Lumbini"
+  },
+  {
+    "Name": "Rolpa",
+    "NameNp": "रोल्पा",
+    "province": "Lumbini"
+  },
+  {
+    "Name": "Rupandehi",
+    "NameNp": "रूपन्देही",
+    "province": "Lumbini"
+  },
+
+  {
+    "Name": "Dailekh",
+    "NameNp": "दैलेख",
+    "province": "Karnali"
+  },
+  {
+    "Name": "Dolpa",
+    "NameNp": "डोल्पा",
+    "province": "Karnali"
+  },
+  {
+    "Name": "Humla",
+    "NameNp": "हुम्ला",
+    "province": "Karnali"
+  },
+  {
+    "Name": "Jajarkot",
+    "NameNp": "जाजरकोट",
+    "province": "Karnali"
+  },
+  {
+    "Name": "Jumla",
+    "NameNp": "जुम्ला",
+    "province": "Karnali"
+  },
+  {
+    "Name": "Kalikot",
+    "NameNp": "कालिकोट",
+    "province": "Karnali"
+  },
+  {
+    "Name": "Mugu",
+    "NameNp": "मुगु",
+    "province": "Karnali"
+  },
+  {
+    "Name": "Salyan",
+    "NameNp": "सल्यान",
+    "province": "Karnali"
+  },
+  {
+    "Name": "Surkhet",
+    "NameNp": "सुर्खेत",
+    "province": "Karnali"
+  },
+  {
+    "Name": "Western Rukum",
+    "NameNp": "पश्चिम रुकुम",
+    "province": "Karnali"
+  },
+
+  {
+    "Name": "Achham",
+    "NameNp": "अछाम",
+    "province": "Sudurpashchim"
+  },
+  {
+    "Name": "Baitadi",
+    "NameNp": "बैतेडी",
+    "province": "Sudurpashchim"
+  },
+  {
+    "Name": "Bajhang",
+    "NameNp": "बझाङ",
+    "province": "Sudurpashchim"
+  },
+  {
+    "Name": "Bajura",
+    "NameNp": "बझुरा",
+    "province": "Sudurpashchim"
+  },
+  {
+    "Name": "Dadeldhura",
+    "NameNp": "डडेलधुरा",
+    "province": "Sudurpashchim"
+  },
+  {
+    "Name": "Darchula",
+    "NameNp": "दार्चुला",
+    "province": "Sudurpashchim"
+  },
+  {
+    "Name": "Doti",
+    "NameNp": "डोटी",
+    "province": "Sudurpashchim"
+  },
+  {
+    "Name": "Kailali",
+    "NameNp": "कैलाली",
+    "province": "Sudurpashchim"
+  },
+  {
+    "Name": "Kanchanpur",
+    "NameNp": "कञ्चनपुर",
+    "province": "Sudurpashchim"
+  }
+]

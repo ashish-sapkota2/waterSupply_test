@@ -1,0 +1,142 @@
+[
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Bank Accounts",
+    "GlSubHeadCode": 1101,
+    "AccountGlHeadId": 1,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Cash in hand",
+    "GlSubHeadCode": 1102,
+    "AccountGlHeadId": 1,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Securities & Deposits ( Assets )",
+    "GlSubHeadCode": 1103,
+    "AccountGlHeadId": 1,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Investments",
+    "GlSubHeadCode": 1104,
+    "AccountGlHeadId": 1,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Loans & Advance ( Assets )",
+    "GlSubHeadCode": 1105,
+    "AccountGlHeadId": 1,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Misc. Expenses ( Assets )",
+    "GlSubHeadCode": 1106,
+    "AccountGlHeadId": 1,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Sundry Debtors",
+    "GlSubHeadCode": 1107,
+    "AccountGlHeadId": 1,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Stock in hands",
+    "GlSubHeadCode": 1108,
+    "AccountGlHeadId": 1,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Duties & Taxes",
+    "GlSubHeadCode": 2101,
+    "AccountGlHeadId": 1,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Provisions",
+    "GlSubHeadCode": 2102,
+    "AccountGlHeadId": 3,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Sundry Creditors",
+    "GlSubHeadCode": 2103,
+    "AccountGlHeadId": 3,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Suspense Accounts",
+    "GlSubHeadCode": 2104,
+    "AccountGlHeadId": 3,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Bank O/D Accounts",
+    "GlSubHeadCode": 2105,
+    "AccountGlHeadId": 3,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Secured loans",
+    "GlSubHeadCode": 2201,
+    "AccountGlHeadId": 4,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Unsecured loans",
+    "GlSubHeadCode": 2202,
+    "AccountGlHeadId": 4,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Reserve and Surplus",
+    "GlSubHeadCode": 2301,
+    "AccountGlHeadId": 5,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Retained Earnings",
+    "GlSubHeadCode": 2302,
+    "AccountGlHeadId": 5,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Purchase Accounts",
+    "GlSubHeadCode": 3101,
+    "AccountGlHeadId": 6,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Sales Accounts",
+    "GlSubHeadCode": 4101,
+    "AccountGlHeadId": 8,
+    "SystemOnly": true
+  },
+  {
+    "Deleted": false,
+    "GlSubHeadName": "Staff Salary Payable",
+    "GlSubHeadCode": 2106,
+    "AccountGlHeadId": 3,
+    "SystemOnly": false
+  }
+]

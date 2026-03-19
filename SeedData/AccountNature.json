@@ -1,0 +1,14 @@
+[
+  {
+    "AccountNatureName": "Assets"
+  },
+  {
+    "AccountNatureName": "Liabilities"
+  },
+  {
+    "AccountNatureName": "Expenses"
+  },
+  {
+    "AccountNatureName": "Incomes"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "AccName": "Cash",
+    "AccNumber": "11010001",
+    "AccStatus": true,
+    "AccountNatureId": 1,
+    "AccountGlSubheadId": 2,
+    "Deleted": false,
+    "AccountGlHeadId": 1,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Stock",
+    "AccNumber": "11010002",
+    "AccStatus": true,
+    "AccountNatureId": 1,
+    "AccountGlSubheadId": 8,
+    "Deleted": false,
+    "AccountGlHeadId": 1,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Capital Equipments",
+    "AccNumber": "10120001",
+    "AccStatus": true,
+    "AccountNatureId": 1,
+    "Deleted": false,
+    "AccountGlHeadId": 2,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Computers",
+    "AccNumber": "10120002",
+    "AccStatus": true,
+    "AccountNatureId": 2,
+    "Deleted": false,
+    "AccountGlHeadId": 2,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Furniture & Fixture",
+    "AccNumber": "11010001",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 2,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Office Equipments",
+    "AccNumber": "10120004",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 2,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "VAT",
+    "AccNumber": "21010001",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "AccountGlSubheadId": 9,
+    "Deleted": false,
+    "AccountGlHeadId": 3,
+    "DrCr": "Cr"
+  },
+  {
+    "AccName": "Purchase",
+    "AccNumber": "31010001",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "AccountGlSubheadId": 18,
+    "Deleted": false,
+    "AccountGlHeadId": 6,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Advertisement & Publicity",
+    "AccNumber": "30320001",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Bank Charges",
+    "AccNumber": "30320002",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Customer Entertainment Expenses",
+    "AccNumber": "30320003",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Depreciation A/c",
+    "AccNumber": "30320004",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Freight & Forwarding Charges",
+    "AccNumber": "30320005",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Legal Expenses",
+    "AccNumber": "30320006",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Miscellaneous Expenses",
+    "AccNumber": "30320007",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Office Maintenance Expenses",
+    "AccNumber": "30320008",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Office Rent",
+    "AccNumber": "30320009",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Postal Expenses",
+    "AccNumber": "30320010",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Printing & Stationery",
+    "AccNumber": "30320011",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Sales Promotion Expenses",
+    "AccNumber": "30320013",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Service Charges Paid",
+    "AccNumber": "30320014",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Telephone Expenses",
+    "AccNumber": "30320016",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Travelling Expenses",
+    "AccNumber": "30320017",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Water & Electricity Expenses",
+    "AccNumber": "30320018",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Sales",
+    "AccNumber": "41010001",
+    "AccStatus": true,
+    "AccountNatureId": 4,
+    "AccountGlSubheadId": 19,
+    "Deleted": false,
+    "AccountGlHeadId": 8,
+    "DrCr": "Cr"
+  },
+  {
+    "AccName": "Salary",
+    "AccNumber": "30320019",
+    "AccStatus": true,
+    "AccountNatureId": 3,
+    "Deleted": false,
+    "AccountGlHeadId": 7,
+    "DrCr": "Dr"
+  },
+  {
+    "AccName": "Profit & Loss Account",
+    "AccNumber": "32010001",
+    "AccStatus": true,
+    "AccountNatureId": 2,
+    "AccountGlSubheadId": 16,
+    "Deleted": false,
+    "AccountGlHeadId": 5,
+    "DrCr": "Dr"
+  }
+
+]

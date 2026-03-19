@@ -1,0 +1,172 @@
+[
+  {
+    "Code": "AdvanceWater",
+    "Description": "Water Tariff Advance",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": true,
+    "CreatedById": null
+  },
+  {
+    "Code": "DiscountWater",
+    "Description": "Water Tariff Discount",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  },
+  {
+    "Code": "PenaltyWater",
+    "Description": "Water Tariff Penalty",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  },
+  {
+    "Code": "CashTotalCounter",
+    "Description": "Water Tariff Counter Cash",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  },
+  {
+    "Code": "TariffAmount",
+    "Description": "Tariff Amount",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": true,
+    "CreatedById": null
+  },
+  {
+    "Code": "SpecialDiscount",
+    "Description": "Special Discount",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  },
+  {
+    "Code": "ExceedingCharge",
+    "Description": "Charge for exceeding 150 days.",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  },
+  {
+    "Code": "CashTotalEsewa",
+    "Description": "Esewa Cash",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  },
+  {
+    "Code": "CashTotalKhalti",
+    "Description": "Khalti Cash",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  },
+  {
+    "Code": "IncentiveAdvance",
+    "Description": "Incentive Advance",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  },
+  {
+    "Code": "EmiCustomer",
+    "Description": "EMI",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": true,
+    "CreatedById": null
+  },
+  {
+    "Code": "InventoryCustomer",
+    "Description": "Inventory Sales Customers.",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  },
+  {
+    "Code": "ExcessSort",
+    "Description": "Round Off Amount.",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  },
+  {
+    "Code": "sales",
+    "Description": "Sales Account",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  },
+  {
+    "Code": "purchase",
+    "Description": "Purchase Account",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  },
+  {
+    "Code": "SalesConsume",
+    "Description": "Sales Consume Account",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  },
+  {
+    "Code": "EmiInterest",
+    "Description": "EMI Interest Account",
+    "DelFlg": false,
+    "CreditAccount": 0,
+    "DebitAccount": 0,
+    "MainAccount": 0,
+    "ContainsDrCr": false,
+    "CreatedById": null
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "GlCode": "1011",
+    "GlName": "Current Assets",
+    "IsDeleted": false,
+    "NatureId": 1
+  },
+  {
+    "GlCode": "1012",
+    "GlName": "Fixed Assets",
+    "IsDeleted": false,
+    "NatureId": 1
+  },
+  {
+    "GlCode": "2021",
+    "GlName": "Current Liabilities",
+    "IsDeleted": false,
+    "NatureId": 2
+  },
+  {
+    "GlCode": "2022",
+    "GlName": "Loans ( Liabilities )",
+    "IsDeleted": false,
+    "NatureId": 2
+  },
+  {
+    "GlCode": "2023",
+    "GlName": "Capital Accounts",
+    "IsDeleted": false,
+    "NatureId": 2
+  },
+  {
+    "GlCode": "3031",
+    "GlName": "Direct Exp ( Mfg. Exp )",
+    "IsDeleted": false,
+    "NatureId": 3
+  },
+  {
+    "GlCode": "3032",
+    "GlName": "Indirect Exp ( Admn / Opr. Exp )",
+    "IsDeleted": false,
+    "NatureId": 3
+  },
+  {
+    "GlCode": "4031",
+    "GlName": "Direct Income ( Mfg. Income )",
+    "IsDeleted": false,
+    "NatureId": 4
+  },
+  {
+    "GlCode": "4032",
+    "GlName": "Indirect Income ( Admn / Opr Income )",
+    "IsDeleted": false,
+    "NatureId": 4
+  }
+]

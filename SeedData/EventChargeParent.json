@@ -1,0 +1,62 @@
+[
+  {
+
+    "Name": "Tap Disconnect",
+    "NameNp": "धारा हटाएको",
+    "IsDeleted": false
+  },
+  {
+
+    "Name": "Thausari",
+    "NameNp": "ठाउसारी",
+    "IsDeleted": false
+  },
+  {
+
+    "Name": "Application Form",
+    "NameNp": "निबेदन दस्तुर",
+    "IsDeleted": false
+  },
+  {
+
+    "Name": "User Defined Charge",
+    "NameNp": "प्रयोगकर्ताद्वारा परिभाषित शुल्क",
+    "IsDeleted": false
+  },
+  {
+
+    "Name": "Namsari",
+    "NameNp": "नामसारी",
+    "IsDeleted": false
+  },
+  {
+
+    "Name": "Customer Registeration",
+    "NameNp": "ग्राहक दर्ता",
+    "IsDeleted": false
+  },
+  {
+
+    "Name": "Lagati",
+    "NameNp": "लगती",
+    "IsDeleted": false
+  },
+  {
+
+    "Name": "General Member",
+    "NameNp": "साधारण सदस्य",
+    "IsDeleted": false
+  },
+  {
+
+    "Name": "Inventory Sales",
+    "NameNp": "भण्डारण बिक्री",
+    "IsDeleted": false
+  },
+  {
+
+    "Name": "Exeeding days",
+    "NameNp": "तोकिएको समयभन्दा बढी दिनहरू / नाघेका दिनहरू",
+    "IsDeleted": false
+  }
+]

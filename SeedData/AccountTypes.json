@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Office A/C",
+    "Deleted": false
+  },
+  {
+    "Name": "Bank A/C",
+    "Deleted": false
+  },
+  {
+    "Name": "Supplier A/C",
+    "Deleted": false
+  },
+  {
+    "Name": "Customer A/C",
+    "Deleted": false
+  }
+]

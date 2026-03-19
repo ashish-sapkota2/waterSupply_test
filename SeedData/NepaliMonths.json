@@ -1,0 +1,74 @@
+﻿[
+  {
+    "NepaliMonthName": "Baisakh",
+    "NepaliMonthNameNepali": "बैशाख",
+    "NaturalIndex": 1,
+    "FyIndex": 10
+  },
+  {
+    "NepaliMonthName": "Jestha",
+    "NepaliMonthNameNepali": "जेठ",
+    "NaturalIndex": 2,
+    "FyIndex": 11
+  },
+  {
+    "NepaliMonthName": "Ashadh",
+    "NepaliMonthNameNepali": "असार",
+    "NaturalIndex": 3,
+    "FyIndex": 12
+  },
+  {
+    "NepaliMonthName": "Shrawan",
+    "NepaliMonthNameNepali": "श्रावण",
+    "NaturalIndex": 4,
+    "FyIndex": 1
+  },
+  {
+    "NepaliMonthName": "Bhadra",
+    "NepaliMonthNameNepali": "भदौ",
+    "NaturalIndex": 5,
+    "FyIndex": 2
+  },
+  {
+    "NepaliMonthName": "Ashwin",
+    "NepaliMonthNameNepali": "आश्विन",
+    "NaturalIndex": 6,
+    "FyIndex": 3
+  },
+  {
+    "NepaliMonthName": "Kartik",
+    "NepaliMonthNameNepali": "कार्तिक",
+    "NaturalIndex": 7,
+    "FyIndex": 4
+  },
+  {
+    "NepaliMonthName": "Mangsir",
+    "NepaliMonthNameNepali": "मंसिर",
+    "NaturalIndex": 8,
+    "FyIndex": 5
+  },
+  {
+    "NepaliMonthName": "Poush",
+    "NepaliMonthNameNepali": "पुष",
+    "NaturalIndex": 9,
+    "FyIndex": 6
+  },
+  {
+    "NepaliMonthName": "Magh",
+    "NepaliMonthNameNepali": "माघ",
+    "NaturalIndex": 10,
+    "FyIndex": 7
+  },
+  {
+    "NepaliMonthName": "Falgun",
+    "NepaliMonthNameNepali": "फाल्गुन",
+    "NaturalIndex": 11,
+    "FyIndex": 8
+  },
+  {
+    "NepaliMonthName": "Chaitra",
+    "NepaliMonthNameNepali": "चैत्र",
+    "NaturalIndex": 12,
+    "FyIndex": 9
+  }
+]
